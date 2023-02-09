@@ -13,7 +13,7 @@ body {
 
 .header-banner {
     height: 800px;
-    background-image: url('../images/banner.png');
+    background-image: url('./images/banner.png');
     background-repeat: no-repeat;
 }
 
